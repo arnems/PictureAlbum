@@ -1,0 +1,19 @@
+.container{
+    background-color: #ccc;
+}
+p{color: #666}
+h1{
+    color: crimson;}
+.img-rounded{
+    height: 7.0em;
+    margin: 5px;
+}
+.fullSize{
+    width: 100%;
+}
+.imgThumbSelected{
+    border: solid 0.3em #e36c0b;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
